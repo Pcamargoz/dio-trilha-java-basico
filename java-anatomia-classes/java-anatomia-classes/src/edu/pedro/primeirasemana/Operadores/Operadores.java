@@ -1,4 +1,4 @@
-package edu.pedro.primeirasemana;
+package edu.pedro.primeirasemana.Operadores;
 
 public class Operadores {
   
