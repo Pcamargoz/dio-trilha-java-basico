@@ -1,0 +1,70 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Operadores07",
+            "request": "launch",
+            "mainClass": "edu.pedro.primeirasemana.Operadores.Operadores07",
+            "projectName": "trilha java basico_40051c31"
+        },
+        {
+            "type": "java",
+            "name": "Operadores05",
+            "request": "launch",
+            "mainClass": "edu.pedro.primeirasemana.Operadores.Operadores05",
+            "projectName": "trilha java basico_40051c31"
+        },
+        {
+            "type": "java",
+            "name": "Operadores04",
+            "request": "launch",
+            "mainClass": "edu.pedro.primeirasemana.Operadores.Operadores04",
+            "projectName": "trilha java basico_40051c31"
+        },
+        {
+            "type": "java",
+            "name": "Operadores03",
+            "request": "launch",
+            "mainClass": "edu.pedro.primeirasemana.Operadores.Operadores03",
+            "projectName": "trilha java basico_40051c31"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.pedro.primeirasemana.BoletimEstudantil",
+            "projectName": "trilha java basico_40051c31"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.pedro.primeirasemana.MinhaClasse",
+            "projectName": "trilha java basico_40051c31"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "edu.pedro.primeirasemana.Operadores",
+            "projectName": "trilha java basico_40051c31"
+        },
+        {
+            "type": "java",
+            "name": "Operadores02",
+            "request": "launch",
+            "mainClass": "edu.pedro.primeirasemana.Operadores02",
+            "projectName": "trilha java basico_40051c31"
+        }
+    ]
+}
