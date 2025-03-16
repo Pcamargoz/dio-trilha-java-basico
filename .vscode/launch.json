@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.pedro.primeirasemana.Smartv.Usuario",
+            "projectName": "dio-trilha-java-basico_a398c765"
+        },
+        {
+            "type": "java",
             "name": "Operadores07",
             "request": "launch",
             "mainClass": "edu.pedro.primeirasemana.Operadores.Operadores07",
